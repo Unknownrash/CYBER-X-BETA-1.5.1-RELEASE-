@@ -1,6 +1,6 @@
 {
-  "name": "CYBER-X 1.5 BETA",
-  "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
+  "name": "GAMING RASH",
+  "description": "GAMING RASH BOT",
   "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
   "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
@@ -8,24 +8,26 @@
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "94711915714"
 		    },
 		    "BOT_NAME": {
-			"description": "Change the bot Name here",
+			"description": "GAMING RASH ",
 			"required": true,
 			"value": "CYBER-X BETA 1.5"
 			},
 			"BOT_NUMBER": {
-			"description": "Change the Bot Number",
+			"description": "94711915714",
 			"required": true,
-			"value": "94778962038"
+			"value": ""
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
 			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
 			},
-			"OWNER_NAME": {
+			"OWNER_NAME": {Gaming rash
+
+
 			"description": "Add Your Name",
 			"required": true,
 			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
